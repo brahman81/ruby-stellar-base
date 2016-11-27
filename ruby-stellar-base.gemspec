@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "base32"
   spec.add_dependency "rbnacl"
   spec.add_dependency "rbnacl-libsodium", "~> 1.0.3"
-  spec.add_dependency "activesupport", "~> 4"
+  spec.add_dependency "activesupport", "~> 5"
 
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
